@@ -1,0 +1,100 @@
+﻿FK Austria Wien
+Innsbruck
+RB Salzburg
+Club Brugge
+RSC Anderlecht
+FC København
+Arsenal
+Bournemouth
+Brighton
+Burnley
+Cardiff City
+Chelsea
+Crystal Palace
+Everton
+Fulham
+Huddersfield
+Leicester City
+Liverpool
+Manchester Utd
+Newcastle Utd
+Southampton
+Watford
+West Ham
+Wolves
+Aston Villa
+Birmingham City
+Blackburn Rovers
+Bristol City
+Derby County
+Ipswich
+Leeds United
+Norwich
+Nott'm Forest
+Stoke City
+Swansea City
+AS Monaco
+ASSE
+Girondins de Bx
+LOSC Lille
+Montpellier HSC
+OGC Nice
+OL
+OM
+Paris
+Stade de Reims
+Stade Rennais
+Leverkusen
+VfL Wolfsburg
+Cork City
+Atalanta
+Bologna
+Cagliari
+Chievo Verona
+Empoli
+Fiorentina
+Frosinone
+Genoa
+Inter
+Juventus
+Milan
+Parma
+Roma
+Sampdoria
+Sassuolo
+SPAL
+Udinese
+Ascoli
+Brescia
+Cittadella
+Crotone
+Hellas Verona
+Spezia
+Lecce
+Palermo
+Pescara
+Venezia
+Ajax
+Feyenoord
+Molde FK
+FC Porto
+SL Benfica
+Sporting CP
+AEK Athens
+HJK Helsinki
+Aberdeen
+Celtic
+FC Barcelona
+Getafe CF
+Levante UD
+R. Valladolid CF
+Real Betis
+Real Madrid
+Real Sociedad
+Sevilla FC
+Villarreal CF
+AIK
+Djurgårdens IF
+Malmö FF
+FC Zürich
+BSC Young Boys

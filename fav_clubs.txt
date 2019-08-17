@@ -1,0 +1,49 @@
+﻿RB Salzburg
+Club Brugge
+RSC Anderlecht
+Cardiff City
+Chelsea
+Everton
+Manchester United
+Southampton
+Watford
+Aston Villa
+Birmingham City
+Blackburn Rovers
+Norwich City
+Swansea City
+Sunderland
+Ipswich Town
+AS Monaco
+ASSE
+Girondins de Bordeaux
+LOSC Lille
+Montpellier HSC
+Olympique Lyonnais
+Olympique Marseille
+Paris Saint-Germain
+Stade Rennais
+Cagliari
+Empoli
+Inter Milan
+Juventus
+AC Milan
+Parma
+AS Roma
+Sampdoria
+Sassuolo
+Brescia
+Cittadella
+Crotone
+Spezia
+Pescara
+Venezia
+Ajax
+FC Porto
+SL Benfica
+Sporting CP
+Aberdeen
+Celtic
+FC Barcelona
+Real Madrid
+Sevilla FC
