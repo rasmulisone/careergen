@@ -10,7 +10,7 @@ while length != careerlength:
     year = careerstart
     for i in range(clubs):
         exec("start" + str(i) + " = year")
-        exec("length" + str(i) + " = random.randint(1, 6)")
+        exec("length" + str(i) + " = random.randint(1, 12)")
         exec("end" + str(i) + " = start" + str(i) + " + length" + str(i))
         exec("year = end" + str(i))
     exec("length = end" + str(clubs - 1) + " - careerstart")
